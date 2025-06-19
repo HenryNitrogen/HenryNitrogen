@@ -8,15 +8,25 @@
 ---
 
 ### 🚀 Projects & Highlights
-- 🎥 **SkillSwap** – student skill exchange platform (Next.js + Prisma + Tailwind)  
-- 🤖 **AI Voice Cloning** – Bert-VITS2 training, phoneme mapping, inference  
-- 🧠 **3LIFES Plan** – personal roadmap into AI, CS, and finance  
-- 🎨 **Blender Animations** – 3D modeling, storyboards, motion graphics  
-- 🌐 **OpenWrt Server Deployment** – frp, DMZ, access control, DDNS  
+
+* 🎥 **SkillSwap** – student skill exchange platform (Next.js + Prisma + Tailwind)
+* 🤖 **AI Voice Cloning** – Bert-VITS2 training, phoneme mapping, inference
+* 🧠 **3LIFES Plan** – personal roadmap into AI, CS, and finance
+* 🎨 **Blender Animations** – 3D modeling, storyboards, motion graphics
+* 🌐 **OpenWrt Server Deployment** – frp, DMZ, access control, DDNS
 
 ---
 
 ### 🛠️ Tech Stack
+
+```ts
+const techStack = {
+  "Frontend": ["Next.js", "React", "TailwindCSS", "TypeScript"],
+  "Backend": ["Prisma", "MySQL", "Node.js"],
+  "Dev Tools": ["VSCode", "Git", "pnpm", "Linux", "OpenWrt"],
+  "AI Tools": ["Python", "Colab", "VITS", "Blender"]
+}
+```
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,prisma,mysql,python,vscode,git,linux" />
@@ -34,5 +44,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenryNitrogen&theme=tokyo-night&hide_border=true" />
 </p>
 
-
 ---
+
+### 🌟 Extra Flashy Highlights
+
+1. **🏆 GitHub Trophies**
+
+   <p align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=HenryNitrogen&theme=tokyonight&no-frame=true&column=4&margin-w=15" />
+   </p>
+
+2. **👁️ Visitor Counter**
+
+   <p align="center">
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=HenryNitrogen.HenryNitrogen" alt="Visitor Badge" />
+   </p>
+
+3. **📈 Top Languages Card**
+
+   <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryNitrogen&layout=compact&theme=tokyonight" />
+   </p>
